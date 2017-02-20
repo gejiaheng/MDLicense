@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MDLicense</string>
+    <string name="header">Thanks to these awesome libraries.</string>
+</resources>

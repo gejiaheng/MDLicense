@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mdlicense</string>
+    <string name="launch_default">Default</string>
+    <string name="launch_custom">Custom</string>
+</resources>

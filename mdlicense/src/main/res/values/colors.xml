@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_background">#F9BF40</color>
+    <color name="default_header_text_color">#FFFFFF</color>
+    <color name="default_tile_color">#FFFFFF</color>
+    <color name="default_library_name_color">#F9BF40</color>
+    <color name="default_author_name_color">#ADADAD</color>
+</resources>

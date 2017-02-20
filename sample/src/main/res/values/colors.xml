@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F9BF40</color>
+    <color name="colorPrimaryDark">#F9BF40</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="custom_background">#424242</color>
+    <color name="custom_tile_color">#80cbc4</color>
+    <color name="custom_library_name_color">#424242</color>
+    <color name="custom_author_name_color">#52000000</color>
+</resources>
