@@ -22,12 +22,12 @@
         <objectAnimator
             android:duration="@android:integer/config_shortAnimTime"
             android:propertyName="translationZ"
-            android:valueTo="@dimen/touch_raise"/>
+            android:valueTo="@dimen/touch_raise" />
     </item>
     <item>
         <objectAnimator
             android:duration="@android:integer/config_shortAnimTime"
             android:propertyName="translationZ"
-            android:valueTo="0dp"/>
+            android:valueTo="0dp" />
     </item>
 </selector>

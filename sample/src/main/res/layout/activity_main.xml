@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
@@ -16,7 +15,7 @@
         android:text="@string/launch_default"
         android:textColor="@android:color/white"
         android:textSize="20sp"
-        android:textStyle="bold"/>
+        android:textStyle="bold" />
 
     <TextView
         android:id="@+id/launch_custom"
@@ -29,5 +28,5 @@
         android:text="@string/launch_custom"
         android:textColor="@android:color/white"
         android:textSize="20sp"
-        android:textStyle="bold"/>
+        android:textStyle="bold" />
 </LinearLayout>
