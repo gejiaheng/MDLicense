@@ -43,8 +43,8 @@ new MDLicenseIntent.Builder(MainActivity.this)
 
 ## Contributing  
 
-- Please follow [Square's Java and Android code style](https://github.com/square/java-code-styles)
-- Feel free to send us pull requests to help improve this library  
+- Please follow Android Studio's default code style.
+- Feel free to send us pull requests to help improve this library.  
 
 ## License
 
