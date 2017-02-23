@@ -2,7 +2,8 @@
 MDLicense is a simple material design license UI component. If you are tired of the stereotyped open source licenses of your App, you can try this library.
 
 ## Screenshots
-<img src="screenshots/screenshot_default.png" width="30%" />
+<img src="screenshots/screenshot_default.png" width="40%" />
+<img src="screenshots/screenshot_custom.png" width="40%" />
 
 ## Download
 Gradle:
