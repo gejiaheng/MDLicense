@@ -1,4 +1,4 @@
-# MDLicense
+# MDLicense [![Build Status](https://travis-ci.org/gejiaheng/MDLicense.svg)](https://travis-ci.org/gejiaheng/MDLicense)
 MDLicense is a simple material design license UI component. If you are tired of the stereotyped open source licenses of your App, you can try this library.
 
 ## Screenshots
