@@ -2,8 +2,7 @@
 MDLicense is a simple material design license UI component. If you are tired of the stereotyped open source licenses of your App, you can try this library.
 
 ## Screenshots
-<img src="screenshots/screenshot_default.png" width="40%" />
-<img src="screenshots/screenshot_custom.png" width="40%" />
+<img src="screenshots/screenshot_default.png" width="40%" /> <img src="screenshots/screenshot_custom.png" width="40%" />
 
 ## Download
 Gradle:
@@ -14,7 +13,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.ge.droid:mdlicense:0.3.0'
+    compile 'com.ge.droid:mdlicense:0.3.1'
 }
 ```
 
@@ -49,7 +48,7 @@ new MDLicenseIntent.Builder(MainActivity.this)
 
 ## License
 
-    Copyright 2017 gejiaheng
+    Copyright 2017 Jiaheng Ge
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
